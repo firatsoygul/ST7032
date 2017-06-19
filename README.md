@@ -16,14 +16,16 @@ Sagemcom Sixty Dect Tel. Lcd (ST7032 Controller)
 
 # Pins
 
+```sh
  ------------------------
-  Arduino        ST7032
+ Arduino        ST7032
  ------------------------
-  3.3V    --+-- VDD
-            +-- RST
-  A4(SDA) --*-- SDA
-  A5(SCL) --*-- SCL
-  GND     ----- GND
-  
+   3.3V    --+-- VDD
+             +-- RST
+   A4(SDA) --*-- SDA
+   A5(SCL) --*-- SCL
+   GND     ----- GND
+   
   *... 10Kohm pull-up
  ------------------------
+```
