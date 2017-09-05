@@ -18,10 +18,6 @@
  * wiper to LCD VO pin (pin 3)
  * 10K poterntiometer on pin A0
 
- 
- Also useful:
- http://icontexto.com/charactercreator/
- 
  */
 
 // include the library code:
