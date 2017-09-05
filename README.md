@@ -13,9 +13,6 @@
 
 ![Sample_4](https://github.com/firatsyg/ST7032/blob/master/img/IMG_0117.JPG?raw=true)
 
-Sagemcom Sixty Dect Tel. Lcd (ST7032 Controller)
-
-![Sagemcom-sixty](https://github.com/firatsyg/ST7032/blob/master/img/sagemcom-sixty.jpg?raw=true)
 
 
 
